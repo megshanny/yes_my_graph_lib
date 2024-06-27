@@ -39,7 +39,7 @@ LAB/
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/graph-analysis-tool.git
+   git clone https://github.com/megshanny/yes_my_graph_lib.git
    cd graph-analysis-tool/LAB
    ```
 
@@ -154,7 +154,4 @@ Contributions are welcome! If you have any ideas or suggestions, feel free to cr
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-By following the steps and examples provided, you can easily use the Graph Analysis Tool to perform various graph analyses and visualizations. For any further questions or support, please refer to the project documentation or contact the project maintainers.
+(not yet, take it easy)
