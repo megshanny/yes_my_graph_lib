@@ -40,7 +40,7 @@ LAB/
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/megshanny/yes_my_graph_lib.git
-   cd graph-analysis-tool/LAB
+   cd yes_my_graph_lib/LAB
    ```
 
 2. **Install dependencies**:
@@ -155,3 +155,7 @@ Contributions are welcome! If you have any ideas or suggestions, feel free to cr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 (not yet, take it easy)
+
+## Warning
+
+I'm sorry to inform you that the accuracy of this is not guaranteed because the teaching assistant has not graded it yet.
